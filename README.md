@@ -1,3 +1,6 @@
+developed by : T.Vishal
+Reg num : 212223100060
+
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -20,8 +23,6 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 ### Step 3:
 
 Test the C Program for the desired output. 
-
-Developed by / Register No: Ramya G / 212224220078
 
 # PROGRAM:
 
