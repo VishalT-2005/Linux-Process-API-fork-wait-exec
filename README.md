@@ -3,9 +3,6 @@ Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
-###  Developed By: SAI KUMAR S
-### Register Number: 212222240087
-
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
 
@@ -102,3 +99,5 @@ int main() {
 ![image](https://github.com/user-attachments/assets/6e8e9a80-a36d-4deb-98b1-5fcb0688c13e)
 ## RESULT:
 The programs has been executed successfully.
+Developed by : Vishal.T 
+Reg Num: Vishal.T
